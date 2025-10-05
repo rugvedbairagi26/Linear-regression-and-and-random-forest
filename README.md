@@ -65,3 +65,6 @@ text
 /notebooks/          # Jupyter notebooks or Python scripts
 /data/               # Data folder (auto-downloaded via scikit-learn)
 /plots/              # Output visualizations (scatter plots)
+
+
+Linkdein-https://www.linkedin.com/in/rugved-bairagi-7882b5285/
